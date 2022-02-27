@@ -1,0 +1,205 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Cryes of England to the Parliament, for the continuance of good entertainment to the Lord Jesus his embassadors: collected as they came up from the severall counties. Wherein you have, 1. The calling, benefit, and maintenance of the godly ministry of England attested. 2. The endeavors of the wicked one to root it out, (though but by withdrawing its maintenance) abominated. 3. And the power of the magistrate in matters of religion, own'd and encouraged.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80806</idno>
+            <idno type="STC">Wing C6910</idno>
+            <idno type="STC">Thomason E693_10</idno>
+            <idno type="STC">ESTC R207044</idno>
+            <idno type="EEBO-CITATION">99866120</idno>
+            <idno type="PROQUEST">99866120</idno>
+            <idno type="VID">166503</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80806)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166503)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 107:E693[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Cryes of England to the Parliament, for the continuance of good entertainment to the Lord Jesus his embassadors: collected as they came up from the severall counties. Wherein you have, 1. The calling, benefit, and maintenance of the godly ministry of England attested. 2. The endeavors of the wicked one to root it out, (though but by withdrawing its maintenance) abominated. 3. And the power of the magistrate in matters of religion, own'd and encouraged.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Vnderhill, at the sign of the Blue Anchor in S. Pauls Church-Yard,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The response from Parliament is dated April 8, 1653.</note>
+                  <note>Annotation on Thomason copy: "Aprill 27".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Clergy --  Great Britain --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166503:1" rendition="simple:additions"/>
+            <p>THE CRYES OF ENGLAND to the PARLIAMENT, For the CONTINUANCE of GOOD ENTERTAINMENT To the LORD JESUS his EMBASSADORS: Collected as they came up from the ſeverall Counties.</p>
+            <p>Wherein you have,
+<list>
+                  <item>1. The Calling, Benefit, and Maintenance of the Godly Mi<g ref="char:EOLhyphen"/>niſtry of <hi>England</hi> atteſted.</item>
+                  <item>2. The endeavors of the wicked one to root it out, (though but by withdrawing its Maintenance) abominated.</item>
+                  <item>3. And the power of the Magiſtrate in matters of Religion, own'd and encouraged.</item>
+               </list>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Tho. <g ref="char:V">Ʋ</g>nderhill,</hi> at the Sign of the <hi>Blue Anchor</hi> in S. <hi>Pauls</hi> Church-Yard, 1653.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:166503:2"/>
+            <pb n="3" facs="tcp:166503:2"/>
+            <head>To the Honourable, the Parliament of the Common<g ref="char:EOLhyphen"/>wealth of <hi>England.</hi>
+            </head>
+            <head type="sub">The humble Petition of us Gentlemen, Free holders, and other Inhabitants in the County of WILTS.</head>
+            <opener>Sheweth,</opener>
+            <p>THat your Petitioners having to their unſpeakable grief ob<g ref="char:EOLhyphen"/>ſerved the workings of Satan, transforming himſelf into an Angel of light, tending to the undermining of holineſs and Chriſtian Religion, by a generation of men who cry down Learning, Miniſtry, Ordinances, and almoſt whatever belongs to us as Chriſtians or Civill men. And having obſerved the en<g ref="char:EOLhyphen"/>deavours of ſome, by ſo many waies to diſturb and remove the ſo long ſetled way for the maintenance of Miniſters, eſtabliſhed by the ſame Lawes by which any property is injoyed in this Na<g ref="char:EOLhyphen"/>tion, without any regard to the ſetling of a ſure and full mainte<g ref="char:EOLhyphen"/>nance in ſtead of it, Conceive themſelves bound in Conſcience both of Duty to God and to the Commonwealth, to give in their teſtimony againſt them in their practices. We dare not be ſilent, when in the Language and the workings of many amongſt our ſelves, the Miniſtry and Ordinances of Jeſus Chriſt are ſo ma<g ref="char:EOLhyphen"/>nifeſtly expoſed, not only to the inſultings of men openly and profeſſedly profane; but (which is more to be lamented) to the ſcorn and contempt of ſuch as pretend to great lights in Reli<g ref="char:EOLhyphen"/>gion, which do ſo manifeſtly tend not only to the utter ſubverſi<g ref="char:EOLhyphen"/>on of all Religion, but, as a neceſſary conſequence of it, to the deſtruction and diſſolution of all bonds of Civil Government. To whom under heaven ſhould we make our moan, and before whom ſhould we ſpread our complaints, but before your Ho<g ref="char:EOLhyphen"/>nors? to whom we cannot but with all thankfulneſs acknowledg the goodneſs of God toward this Nation, in governing and diſ<g ref="char:EOLhyphen"/>poſing your Honors hearts at ſuch a time as this, when there are
+<pb n="4" facs="tcp:166503:3"/>ſo many deſperate ſuggeſtions and attempts againſt Univerſities, Ordinances, Miniſtry, and their neceſſary Maintenance, to declare your ſelves, as you have done, real countenancers and ſupporters of them all; which gives the godly of this Nation ground of hope the Lord will further honour you to be inſtruments for e<g ref="char:EOLhyphen"/>ſtabliſhing and countenancing of all theſe, for the glory of his great Name, and for the ſetling of the Goſpel in purity and pow<g ref="char:EOLhyphen"/>er, to be a bleſſed inheritance to ſucceeding generations; and to whom we thought it our duty in our places to declare that your Petitioners, in conſent (as we humbly conceive) with the people of God generally in this Land (whatſoever ſome ſuggeſt to the contrary) do greatly rejoice in thoſe your Chriſtian act<g ref="char:EOLhyphen"/>ings, that ſo your hands may be ſtrengthned in the work of God; and therefore are farther encouraged to make their humble ad<g ref="char:EOLhyphen"/>dreſſes to this Honourable Aſſembly, with theſe (as we con<g ref="char:EOLhyphen"/>ceive) neceſſary requeſts.</p>
+            <p n="1">1. <hi>That by your wiſdom and care, the Ordinances of Jeſus Chriſt may be countenanced and preſerved from the ſcorn, contempt, and profane neglect, to which they are expoſed, both by ſome Miniſters themſelves, who give too much occaſion thereof by their ignorance and ſcandalous living, old empty formalities ſtill continued, and alſo by many others both profane and humorous perſons.</hi>
+            </p>
+            <p n="2">2. <hi>That Paſtours and Teachers for the work of the Miniſtry, and edifying of the body of Chriſt, may with the like wiſdom and care be countenanced, your Petitioners being well aſſured that it will be a very acceptable ſervice to Jeſus Chriſt, your Lord and ours, to own and encourage thoſe Embaſſadors of his, to whom he hath committed the word of Reconciliation, and with whom he hath promiſed to be to the end of the world, and in whom we have found (by ſweet expe<g ref="char:EOLhyphen"/>rience) upon our ſouls, the power and the ſenſe of Jeſus Chriſt accord<g ref="char:EOLhyphen"/>ing to his promiſes.</hi>
+            </p>
+            <p n="3">3. <hi>That as the Lord of old ſetled the Schools of the Prophets a<g ref="char:EOLhyphen"/>mongſt his peculiar people, and hath bleſſed our <g ref="char:V">Ʋ</g>niverſities and Schools of Learning, for the breeding up and ſending forth many choice inſtruments of his glory, both in Church and Commonwealth; ſo you would be pleaſed to continue our <g ref="char:V">Ʋ</g>niverſities, and other Schools of Learning under your ſpecial care and protection.</hi>
+            </p>
+            <p n="4">4. <hi>That for preſerving the Miniſtry from contempt, freeing them
+<pb n="5" facs="tcp:166503:3"/>from the temptation of men-pleaſing and humane dependencies, from diſtracting diverſions in the work of the Lord, enabling them to works of mercy, and for ſupplying them with neceſſary proviſions for their Studies and Families, that ſo they which preach the Goſpel, may live of the Goſpel; Your Honours would be pleaſed to continue their maintenance, with neceſſary enlargement in thoſe places where means are wanting.</hi>
+            </p>
+            <p>
+               <hi>Theſe things we humbly and earneſtly requeſt of your Honors; and who knows whether God hath not raiſed you up for ſuch a time as this is? in the performance whereof, you ſhall the more engage the Lord Jeſus to defend both you and us, who hath ſo eminently appeared hitherto in our preſervation, and will be the ſureſt defence of thoſe that act for him: and you ſhall alſo make glad the hearts of the godly in this Land, ſtop the mouths of thoſe who are ſo ready to ſpeak evil of you, and alſo prevent the deſigns of thoſe who are contrary mind<g ref="char:EOLhyphen"/>ed, and further oblige us to pray.</hi>
+            </p>
+            <closer/>
+            <postscript>
+               <p>The Gentlemen of the County being called in, had thanks, and a good Anſwer: but for its not being affix'd <hi>verbatim,</hi> they may thank themſelves, becauſe they did not commit it to the care of a Stationer.</p>
+            </postscript>
+         </div>
+         <div type="petition">
+            <pb n="6" facs="tcp:166503:4"/>
+            <head>To the Supreme Authoritie of the Nation, the Parlia<g ref="char:EOLhyphen"/>ment of the Commonwealth of <hi>England.</hi>
+            </head>
+            <head type="sub">The Humble Petition of the County of <hi>South-Hampton,</hi> Subſcri<g ref="char:EOLhyphen"/>bed at the late Aſſizes held at <hi>Winton,</hi> by the Grand Jury and neer 8000 of the Gentry, Free-holders, and other Inhabitants of the ſaid County.</head>
+            <opener>Humbly ſheweth,</opener>
+            <p>THat your Petitioners (informed by the Word of God) are very ſenſible, that the enjoyment of the Miniſtry of the Goſpel of Chriſt (by fit men ſet apart to that ſacred work) is to be eſteemed the choiceſt mercy wherein any people are bleſſed of God; and the removal thereof after ſuch enjoy<g ref="char:EOLhyphen"/>ment, the greateſt judgment threatned or inflicted on any Nation.</p>
+            <p>With much thankfulneſſe we acknowledg the goodneſſe of God bleſſing this Nation of ours, even above others our Neigh<g ref="char:EOLhyphen"/>bours, with this rich Priviledg; and which (notwithſtanding our own unworthineſſe, and all the oppoſitions of Satan and his Inſtruments) he hath been pleaſed for many years paſt, and un<g ref="char:EOLhyphen"/>to this preſent, to continue among us.</p>
+            <p>What a Bleſſing this Nation hath enjoyed in a learned and godly Miniſtry, honoured by the Reformed Churches abroad; what a teſtimony it hath had from heaven, in the converſion of Multitudes from the power of Satan unto God; what their la<g ref="char:EOLhyphen"/>bours and ſufferings have been, contending for the Faith, againſt Popiſh, Arminian, and other Adverſaries; (wherein we are in theſe preſent times more ſenſible then ever of the need of their labours) are things ſo clear, that there are very few but will ac<g ref="char:EOLhyphen"/>knowledg.</p>
+            <p>That this mercy hath been continued amidſt thoſe great op<g ref="char:EOLhyphen"/>poſitions which godly Miniſters have met withall, next to the goodneſſe of God, we cannot but thankfully acknowledg and a<g ref="char:EOLhyphen"/>ſcribe it unto your many Acts and Declarations, both for a ſet<g ref="char:EOLhyphen"/>led Maintenance and continuance thereof, with liberal Aug<g ref="char:EOLhyphen"/>mentations allowed by you, to the great incouragement of thoſe who are imployed in that ſacred Work.</p>
+            <p>Nevertheleſſe we have with much ſadneſſe obſerved the act<g ref="char:EOLhyphen"/>ings
+<pb n="7" facs="tcp:166503:4"/>of many, in ſundry places of the Nation, who by their pro<g ref="char:EOLhyphen"/>feſs'd oppoſition to their Office and Maintenance, have and ſtil do buſily endeavour the diſcouragement and deſtruction of the godly Miniſtry of the Nation. And this ſo boldly attempted, even during the ſitting of this Parliament (which hath ſo emi<g ref="char:EOLhyphen"/>nently declared and appeared to the contrary) fils the hearts of many of the godly with jealouſies, fearing leſt by ſuch attempts they be at length deprived of this Mercy; and with it, of all the viſible profeſſion of Religion. For ſhould ſuch endeavours proſper (which the Lord in mercy prevent, by making your Ho<g ref="char:EOLhyphen"/>nours continued inſtruments to ſtand in the gap) we ſadly ap<g ref="char:EOLhyphen"/>prehend how great the triumphs would be of Jeſuits, and all o<g ref="char:EOLhyphen"/>ther profeſſ'd adverſaries of the Truth: The advantage Satan hath already made of the preſent contempt of the Miniſtry, ſuf<g ref="char:EOLhyphen"/>ficiently diſcovering how ſad the conſequence would be of their utter removall.</p>
+            <p>
+               <hi>Therefore out of a due reſpect to the glory of God, the good of ſouls, the peace of the Church, the preſervation and purity of Religi<g ref="char:EOLhyphen"/>on, the welfare of the Nation, and faithfully to diſcharge our own duty, for the countenance of Learning, the preſervation and encouragement of thoſe that labour in the Lords work; We do earneſtly deſire, that laying to heart the Intereſt of Chriſt, (who will ſhortly be your Judg and ours) your Honours would ſeriouſly conſider theſe our humble Requeſts and Propoſals.</hi>
+            </p>
+            <p n="1">1. That the Univerſities, with other Schools and Nurſeries of Religion and Learning, may be continued, and enjoy what God hath given them by Benefactors.</p>
+            <p n="2">2. That you would continue to ſpeak comfortably to thoſe who teach the knowledg of God; that their hands may be ſtrengthened in the work of the Miniſtry, the diſturbers of them repreſſed, all due encouragement afforded; particularly, that Tythes, and other their preſent ſetled Maintenance may be con<g ref="char:EOLhyphen"/>tinued unto them, untill ſome other as full and certain a way thereof may be found out and confirmed upon them.</p>
+            <p n="3">3. That unſavoury Salt may be caſt out: and ſuch as know not the worth of Souls, and are onely skilful to deſtroy them, may be removed.</p>
+            <pb n="8" facs="tcp:166503:5"/>
+            <p>
+               <hi>Laſtly,</hi> That there be a ſetled Order eſtabliſhed according to the Word of God, for admitting of perſons Orthodox, and fitly qualified, into that work of the Miniſtry:</p>
+            <closer>
+               <signed>
+                  <hi>And your Petitioners ſhall alwayes pray,</hi> &amp;c.</signed>
+            </closer>
+         </div>
+         <div type="account">
+            <head>Friday <hi>8.</hi> of April, <hi>1653.</hi>
+            </head>
+            <p>THE Houſe being informed that divers <hi>Ham-Shire</hi> Gentle<g ref="char:EOLhyphen"/>men were at the Door, they were called in, and being come to the Bar, Major <hi>Hooker</hi> informed the Parliament, that he, with Cap. <hi>Terrye</hi> and Cap. <hi>Chaſe,</hi> were deſired by the Juſtices of the Bench, Grand Jury, and Gentlemen of the County of <hi>South-hampton,</hi> Free-holders, &amp; Inhabitants of the ſaid Coun<g ref="char:EOLhyphen"/>ty, to preſent their Petition to the Parliament; and did thereupon preſent a Petition to the Houſe, which after the Petitioners were withdrawn, was read, and was Intituled, The Petition of the County of <hi>South-hampton,</hi> ſubſcribed at the late Aſſizes by the Grand Jury and neer Eight thouſand of the Gentry, Free-hol<g ref="char:EOLhyphen"/>ders, and other Inhabitants of the ſaid County.</p>
+            <p>
+               <hi>Reſolved,</hi>
+            </p>
+            <p>That the Petitioners be called in, and that Mr. <hi>Speaker</hi> do give them the thanks of the Parliament; and let them know, that ſome of the matters contained in the Petition are already, under conſideration, and that the reſt ſhall be taken into conſi<g ref="char:EOLhyphen"/>deration in due time.</p>
+            <p>The Petitioners were again called in, and Mr. <hi>Speaker</hi> by com<g ref="char:EOLhyphen"/>mand of the Houſe, gave them this anſwer:</p>
+            <p>
+               <hi>Gentlemen,</hi> The Houſe hath read your Petition, and conſider<g ref="char:EOLhyphen"/>ed ſeriouſly of it, and hath commanded me to give you thanks.</p>
+            <p>And in their name I do give you thanks. And I am further to let you know, that the Parliament have many of the matters contained in the Petition under conſideration, and that they will take the reſt into conſideration in due time.</p>
+            <closer>
+               <signed>Hen. Scobell Cleric. Parliament'.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>Th. <g ref="char:V">Ʋ</g>nderhill,</hi> at the Sign of the <hi>Blue Anchor</hi> in <hi>Paul's</hi> Church-Yard, 1653.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
